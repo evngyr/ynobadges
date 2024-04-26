@@ -1,0 +1,11 @@
+{
+  "group": "0_loc",
+  "order": 4,
+  "bp": 300,
+  "reqType": "locationCompletion",
+  "reqInt": 100,
+  "secret": true,
+  "parent": "uro_trophy_platinum",
+  "art": "miau",
+  "batch": 69
+}

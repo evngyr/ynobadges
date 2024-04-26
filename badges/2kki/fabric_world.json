@@ -1,0 +1,11 @@
+{
+  "group": "2_el",
+  "bp": 10,
+  "reqType": "tag",
+  "reqString": "fabric_world",
+  "map": 176,
+  "mapX": 198,
+  "mapY": 205,
+  "art": "memorisleep",
+  "batch": 87
+}

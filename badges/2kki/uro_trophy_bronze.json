@@ -1,0 +1,9 @@
+{
+  "group": "0_loc",
+  "order": 0,
+  "bp": 50,
+  "reqType": "locationCompletion",
+  "reqInt": 30,
+  "art": "miau",
+  "batch": 69
+}

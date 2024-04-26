@@ -1,0 +1,13 @@
+{
+  "group": "2_el",
+  "bp": 15,
+  "reqType": "tag",
+  "reqString": "shimako_deluge",
+  "map": 1882,
+  "mapX": 69,
+  "mapY": 102,
+  "secretCondition": true,
+  "art": "Zaakarias & Zolotl",
+  "animated": true,
+  "batch": 75
+}

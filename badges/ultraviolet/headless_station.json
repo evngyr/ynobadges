@@ -1,0 +1,9 @@
+{
+  "bp": 10,
+  "reqType": "tag",
+  "reqString": "headless_station",
+  "map": 75,
+  "art": "25",
+  "animated": true,
+  "batch": 59
+}

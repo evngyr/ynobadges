@@ -1,0 +1,9 @@
+{
+  "bp": 15,
+  "reqType": "tag",
+  "reqString": "ribbon_effect",
+  "map": 99,
+  "art": "akalog",
+  "animated": true,
+  "batch": 56
+}

@@ -3,6 +3,7 @@
   "reqType": "tag",
   "reqString": "ancient_heavenly_sky",
   "map": 300,
-  "art": "Liliana",
-  "batch": 43
+  "art": "Sekiranun",
+  "animated": true,
+  "batch": 104
 }

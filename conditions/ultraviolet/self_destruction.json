@@ -1,0 +1,7 @@
+{
+  "map": 20,
+  "switchId": 83,
+  "switchValue": true,
+  "trigger": "eventAction",
+  "value": "1"
+}

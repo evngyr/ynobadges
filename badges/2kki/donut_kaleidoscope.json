@@ -1,0 +1,12 @@
+{
+  "group": "2_el",
+  "bp": 15,
+  "reqType": "tag",
+  "reqString": "donut_kaleidoscope",
+  "map": 1826,
+  "mapX": 1,
+  "mapY": 130,
+  "secretCondition": true,
+  "art": "desktopghost",
+  "batch": 78
+}

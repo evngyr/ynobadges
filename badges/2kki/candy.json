@@ -1,5 +1,4 @@
 {
-  "order": 4,
   "group": "4_ch",
   "bp": 30,
   "reqType": "tags",
@@ -15,6 +14,6 @@
     "cutlery_world"
   ],
   "secretMap": true,
-  "art": "Liliana",
-  "batch": 8
+  "art": "Murasaki",
+  "batch": 86
 }

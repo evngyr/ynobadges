@@ -1,8 +1,8 @@
 {
-  "bp": 15,
+  "bp": 10,
   "reqType": "tag",
   "reqString": "flower_field",
   "map": 94,
-  "art": "Liliana",
-  "batch": 43
+  "art": "baubleBee",
+  "batch": 86
 }

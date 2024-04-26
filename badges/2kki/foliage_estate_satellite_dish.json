@@ -5,5 +5,7 @@
   "reqString": "foliage_estate_satellite_dish",
   "map": 1661,
   "secretCondition": true,
-  "art": "Liliana"
+  "art": "maengo",
+  "animated": true,
+  "batch": 86
 }

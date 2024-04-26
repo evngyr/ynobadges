@@ -1,0 +1,15 @@
+{
+  "group": "2_el",
+  "bp": 10,
+  "reqType": "tags",
+  "reqStrings": [
+    "chromatic_limbo",
+    "chromatic_limbo_b"
+  ],
+  "reqCount": 1,
+  "map": 2171,
+  "mapX": 22,
+  "mapY": 1,
+  "art": "WikiOdd",
+  "batch": 57
+}

@@ -4,6 +4,7 @@
   "reqType": "tag",
   "reqString": "tranquil_crescent",
   "map": 452,
-  "art": "Liliana",
-  "batch": 31
+  "art": "Zolotl",
+  "animated": true,
+  "batch": 86
 }
